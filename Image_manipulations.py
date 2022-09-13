@@ -41,7 +41,7 @@ def resize_image(image,dimensions,method_number):
     return resized_image
 
 
-# Below is the implementaion of the above written code
+# Below is an implementaion of the above written code
 
 # In[ ]:
 
