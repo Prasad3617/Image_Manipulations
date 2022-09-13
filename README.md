@@ -1,2 +1,1 @@
-# Image_Manipulations
-Image manipulations using python
+This piece of code does "Image manipulations" using python.
